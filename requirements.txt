@@ -1,3 +1,3 @@
 ﻿streamlit
 nltk == 3.4.5
-sklearn == 0.12.1
+sklearn == 1.0.2
