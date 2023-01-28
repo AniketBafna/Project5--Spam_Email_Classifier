@@ -1,5 +1,4 @@
 ﻿streamlit
-requests
 nltk
 sklearn
 pickle
